@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">USC Films</string>
+    <string name="footer_1">Powered by TMDB</string>
+    <string name="footer_2">Developed by Perry</string>
+</resources>
